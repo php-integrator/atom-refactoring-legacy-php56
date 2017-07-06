@@ -4,7 +4,7 @@ module.exports =
      *
      * @var {String}
     ###
-    packageName: 'php-integrator-refactoring'
+    packageName: 'php-integrator-refactoring-legacy-php56'
 
     ###*
      * List of refactoring providers.
