@@ -1,4 +1,4 @@
-# atom-refactoring-legacy-php56
+# php-integrator/atom-refactoring-legacy-php56
 <p align="right">
 :coffee:
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YKTNLZCRHMRTJ">Send me some coffee beans</a>
